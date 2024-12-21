@@ -1,2 +1,3 @@
 # STEAM-gpt
-🌟 Welcome to STEM GPT! 🌟 STEM GPT is your interactive buddy for exploring the world of Science, Technology, Engineering, Arts, and Mathematics (STEAM). Designed for learners aged 14–17, it provides simple, fun, and engaging answers to spark curiosity and promote discovery.
+🌟 مرحبًا بك في STEM GPT! 🌟
+STEM GPT هو رفيقك التفاعلي لاستكشاف عالم العلوم والتكنولوجيا والهندسة والفنون والرياضيات (STEAM). مصمم للمتعلمين الذين تتراوح أعمارهم بين 14 و17 عامًا، ويقدم إجابات بسيطة وممتعة لتحفيز الفضول وتعزيز الاكتشاف!
